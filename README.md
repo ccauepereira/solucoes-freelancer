@@ -5,7 +5,7 @@ Repositório dedicado ao desenvolvimento de soluções reais de negócio utiliza
 | Projeto | Tema | Nível | Status |
 |---|---|---|---|
 | 01 | Clínica Veterinária (Gestão) | 🟢 Fácil | ⏳ Pendente |
-| 02 | Oficina Mecânica (Ordens) | 🟢 Fácil | ⏳ Pendente |
+| 02 | projeto_oficina.Oficina Mecânica (Ordens) | 🟢 Fácil | ⏳ Pendente |
 | 03 | Pet Shop (Fichas Pet) | 🟢 Fácil | ⏳ Pendente |
 | 04 | Loja de Colecionáveis (Itens) | 🟡 Médio | ⏳ Pendente |
 | 05 | Consultório Odonto (Procedimentos) | 🟡 Médio | ⏳ Pendente |
@@ -29,7 +29,7 @@ Os projetos estão organizados em pastas por nível de dificuldade:
 ```bash
 # Exemplo para rodar o Projeto 01
 javac facil/projeto01_clinica_veterinaria/*.java
-java facil.projeto01_clinica_veterinaria.DemoConsulta
+java facil.projeto01_clinica_veterinaria.projeto_clinica.DemoConsulta
 
 ```
 ## 👤 Autor
